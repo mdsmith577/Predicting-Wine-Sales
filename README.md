@@ -3,11 +3,13 @@
 ## Using wine sales data from Walgreens, we are seeking to accurately predict future wine sales using the following variables:
   - Previous annual sales at the "store level"
   - Footage allocated in each store to merchandise wine products
+  
+## In addition, we are seeking to uncover actionable and data-driven insights by using Tableau for efficient data exploration
 
 
 ## Group Members:
   - Mike Smith
-  - Dan Taylor
+  - Dann Taylor
   - Kevin Holbrook
 
 ## Link to Presentation:
